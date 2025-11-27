@@ -1,0 +1,21 @@
+store_id,store_name,city,state
+1,Store 1,Los Angeles,WI
+2,Store 2,San Francisco,UT
+3,Store 3,Miami,MI
+4,Store 4,San Francisco,OK
+5,Store 5,New York,IL
+6,Store 6,Los Angeles,ME
+7,Store 7,Miami,MO
+8,Store 8,Dallas,OR
+9,Store 9,Boston,WY
+10,Store 10,San Francisco,GA
+11,Store 11,Houston,WA
+12,Store 12,New York,PA
+13,Store 13,Houston,HI
+14,Store 14,Dallas,AR
+15,Store 15,Miami,MT
+16,Store 16,Houston,TN
+17,Store 17,Chicago,PA
+18,Store 18,New York,FL
+19,Store 19,Boston,IL
+20,Store 20,Chicago,CA
